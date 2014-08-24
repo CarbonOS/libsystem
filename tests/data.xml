@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Node>
+	<Service>fhgdfghdfgh</Service>
+	<Service>dfghdfgh</Service>
+	<!-- Root Service -->
+	<Service Name="Service1">1000</Service>
+	<Module Name="Module1"></Module>
+</Node>

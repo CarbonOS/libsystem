@@ -1,0 +1,20 @@
+[Hello]
+dfghdfgh = dfsdfsdf
+
+[Hello.Data]
+dfghdfgh = dfsdfsdf
+usb:v0499p1011d*dc*dsc*dp*ic*isc*ip*in* = snd_usb_audio
+
+[Hello.0]
+dfghdfgh = dfsdfsdf
+usb:v0499p1011d*dc*dsc*dp*ic*isc*ip*in* = snd_usb_audio 2         fdasdfsdfa-
+usb:v0499p1011d*dc*dsc*dp*ic*isc*ip*in* = snd_usb_audio
+
+[Hello.2]
+dfghdfgh = dfsdfsdf
+usb:v0499p1011d*dc*dsc*dp*ic*isc*ip*in* = snd_usb_audio
+
+[Service]
+Autostart = 1
+Flags = 1
+
